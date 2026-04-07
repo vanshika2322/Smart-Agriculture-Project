@@ -6,7 +6,7 @@ A web-based agriculture monitoring system to track soil moisture, temperature, a
 
 
 
-\## Features
+\# Features
 
 \- User login and registration
 
